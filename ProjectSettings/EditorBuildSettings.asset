@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Puzzle_Car_Escape.unity
+    guid: c4eaa864a0b4132478f3b97ad1dcd390
+  - enabled: 1
     path: Assets/Scenes/Escape Room Scene.unity
     guid: dff9e27874687b74cb1ebb829a53d3fc
   - enabled: 1
@@ -14,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzle Tilt Maze.unity
     guid: bef83431b6f33cc4686b09be7eb9dc82
-  - enabled: 1
-    path: Assets/Scenes/3D Character.unity
-    guid: 307749b5e1f82e14ca9e141c5a1fc78f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
